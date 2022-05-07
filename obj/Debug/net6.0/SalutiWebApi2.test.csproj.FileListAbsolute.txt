@@ -1,0 +1,5 @@
+c:\Users\angel\SalutiWebApi2.test\obj\Debug\net6.0\SalutiWebApi2.test.csproj.AssemblyReference.cache
+c:\Users\angel\SalutiWebApi2.test\obj\Debug\net6.0\SalutiWebApi2.test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\angel\SalutiWebApi2.test\obj\Debug\net6.0\SalutiWebApi2.test.AssemblyInfoInputs.cache
+c:\Users\angel\SalutiWebApi2.test\obj\Debug\net6.0\SalutiWebApi2.test.AssemblyInfo.cs
+c:\Users\angel\SalutiWebApi2.test\obj\Debug\net6.0\SalutiWebApi2.test.csproj.CoreCompileInputs.cache
